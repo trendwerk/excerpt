@@ -2,6 +2,13 @@
 /**
  * Plugin Name: Excerpt
  * Description: Excerpt with settings on per-function basis.
+ *
+ * Plugin URI: https://github.com/trendwerk/excerpt
+ * 
+ * Author: Trendwerk
+ * Author URI: https://github.com/trendwerk
+ * 
+ * Version: 1.0.0
  */
 
 /**

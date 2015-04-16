@@ -18,7 +18,7 @@ Or manually add it to your `composer.json`:
 
 ### Usage
 
-```
+```php
 tp_the_excerpt( $length = 55, $more = '&hellip;', $content = '' );
 ```
 
